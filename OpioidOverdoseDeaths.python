@@ -1,0 +1,8 @@
+#import pandas for data frame, matplotlib for plotting, and various plotly libraries for different
+#types of plots/customization
+import pandas as pd
+import matplotlib.pyplot as plt
+import plotly
+import chart_studio.plotly as py
+import plotly.graph_objects as go
+import plotly.express as px
